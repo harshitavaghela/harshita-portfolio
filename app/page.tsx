@@ -25,7 +25,7 @@ export default function Home() {
               className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl"
             >
               <Image
-                src="https://media.licdn.com/dms/image/v2/D5603AQEFP2WbA43Vwg/profile-displayphoto-shrink_400_400/B56ZUncoFyGQAg-/0/1740123571867?e=1746662400&v=beta&t=nJcbnln-Uuq-tVac3B-08xN3JxhP4S4vPh-q_jUfBac"
+                src="/profile.jpg"
                 alt="Harshita Vaghela"
                 fill
                 className="object-cover"
